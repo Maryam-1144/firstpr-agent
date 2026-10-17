@@ -9,7 +9,6 @@ Give it any GitHub repository and your skills. A **Gemma 4** agent explores the 
 ![Built with Streamlit](https://img.shields.io/badge/built%20with-Streamlit-red)
 ![Tests: 15 passing](https://img.shields.io/badge/tests-15%20passing-brightgreen)
 
-> 🌐 **Live demo:** https://firstpr-agent.streamlit.app *(replace with your deployed URL)*
 >
 > Built at **Hacktoberfest Hack Day Lahore × AWS Student Builder Group, Virtual University of Pakistan** (17 Oct 2026).
 > Entered in **Best Use of Gemma 4** (Google DeepMind) and **Best Open-Source AI Project** (DigitalOcean).
